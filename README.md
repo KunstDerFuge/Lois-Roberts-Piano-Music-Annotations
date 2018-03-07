@@ -1,4 +1,4 @@
-# Lois Roberts' sheet music annotations
+# Lois Roberts' Sheet Music Annotations
 Sheet music annotations and fingerings by pianist/pedagogue Lois Roberts.
 
 Mrs. Roberts is a pianist and pedagogue renowned by her students for her insight and interpretations of various composers, especially Bach. Her pedagogical lineage can be traced back to Rosina Lhevinne and the Russian school of pianism. At the heart of her teaching is her unique fingering, which is both utilitarian and musical. She often writes out her fingerings in full on the sheet music, and annotated copies of this sheet music are highly prized and shared amongst her students. This is an attempt at creating a digital archive of this music.
